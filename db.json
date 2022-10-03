@@ -1,0 +1,24 @@
+{
+  "countries": [
+    {
+      "Country": "India",
+      "AQI": 200
+    },
+    {
+      "Country": "Germany",
+      "AQI": 210
+    },
+    {
+      "Country": "USA",
+      "AQI": 205
+    },
+    {
+      "Country": "Switzerland",
+      "AQI": 190
+    },
+    {
+      "Country": "Canada",
+      "AQI": 180
+    }
+  ]
+}
