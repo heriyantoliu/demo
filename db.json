@@ -20,6 +20,33 @@
       "country": "Canada",
       "AQI": 180
     }
-  ]  
+  ],
+  "state": [
+    {
+      "country": "India"
+      "state": "Punjab",
+      "AQI": 190
+    },
+    {
+      "country": "India"
+      "state": "Haryana",
+      "AQI": 200
+    },
+    {
+      "country": "India"
+      "state": "Karnataka",
+      "AQI": 205
+    },
+    {
+      "country": "India"
+      "state": "Maharasthra",
+      "AQI": 190
+    },
+    {
+      "country": "India"
+      "state": "Himachal",
+      "AQI": 180
+    }
+  ]
   
 }
