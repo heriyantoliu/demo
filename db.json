@@ -1,24 +1,47 @@
 {
   "countries": [
     {
-      "Country": "India",
+      "country": "India",
       "AQI": 200
     },
     {
-      "Country": "Germany",
+      "country": "Germany",
       "AQI": 210
     },
     {
-      "Country": "USA",
+      "country": "USA",
       "AQI": 205
     },
     {
-      "Country": "Switzerland",
+      "country": "Switzerland",
       "AQI": 190
     },
     {
-      "Country": "Canada",
+      "country": "Canada",
+      "AQI": 180
+    }
+  ],
+  "state": [
+    {
+      "state": "Punjab",
+      "AQI": 190
+    },
+    {
+      "state": "Haryana",
+      "AQI": 200
+    },
+    {
+      "state": "Karnataka",
+      "AQI": 205
+    },
+    {
+      "state": "Maharasthra",
+      "AQI": 190
+    },
+    {
+      "state": "Himachal",
       "AQI": 180
     }
   ]
+  
 }
